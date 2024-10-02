@@ -1,0 +1,50 @@
+[
+    {        
+        "inizio": "2020-03-01",
+        "fine": "2020-03-09",
+        "colore": "white",
+        "restrizioni": "Nessuna restrizione"
+    },
+    {        
+        "inizio": "2020-03-09",
+        "fine": "2020-05-4",
+        "colore": "saddlebrown",
+        "restrizioni": "Fase 1"
+    },
+    {        
+        "inizio": "2020-05-04",
+        "fine": "2020-06-11",
+        "colore": "chocolate",
+        "restrizioni": "Fase 2"
+    },
+    {
+        "inizio": "2020-06-11",
+        "fine": "2020-11-06",
+        "colore": "whitesmoke",
+        "restrizioni": "Fase 3"
+    },
+    {
+        "inizio": "2020-11-06",
+        "fine": "2020-11-29",
+        "colore": "red",
+        "restrizioni": "Zona rossa"
+    },
+    {
+        "inizio": "2020-11-29",
+        "fine": "2020-12-13",
+        "colore": "darkorange",
+        "restrizioni": "Zona arancione"
+    },
+    {
+        "inizio": "2020-12-13",
+        "fine": "2020-12-24",
+        "colore": "yellow",
+        "restrizioni": "Zona gialla"
+    },
+    {
+        "inizio": "2020-12-24",
+        "fine": "2020-12-31",
+        "colore": "red",
+        "restrizioni": "Zona rossa"
+    }
+]
